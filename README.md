@@ -1,2 +1,2 @@
 # AppWeb_LearningProcess
-Aplicación web de gestión de tares desarrollada con el framework de Flask
+Aplicación web de gestión de tareas desarrollada con el framework de Flask
